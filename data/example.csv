@@ -1,0 +1,3 @@
+number,question,qtype,correct,a,b,c,d
+1,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sodales.",qtype_truefalse,f,,,,
+2,Integer eget magna sit amet dui maximus feugiat nec hendrerit.,qtype_multichoice,c,option a,option b,option c,option d
