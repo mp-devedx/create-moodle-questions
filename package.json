@@ -1,0 +1,27 @@
+{
+  "name": "create-questions",
+  "version": "1.0.0",
+  "description": "create moodle questions automatically from .csv file",
+  "main": "createQuizes.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "papaparse": "^4.6.1",
+    "replace": "^1.0.0",
+    "selenium-webdriver": "^3.6.0",
+    "sleep-sync": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp-devedx/create-moodle-questions.git"
+  },
+  "author": "eduardoperez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mp-devedx/create-moodle-questions/issues"
+  },
+  "homepage": "https://github.com/mp-devedx/create-moodle-questions#readme"
+}
