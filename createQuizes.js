@@ -10,7 +10,7 @@ const COURSE_ID = '102';
 const QUIZ_ID = '1287,17514';
 const USERNAME = '';
 const PASSWORD = '';
-const QUESTIONS_PATH = '/home/eduardoperez/exelearning/Módulo-VII-(UNAN)/cuestionarios/unidad4.csv';
+const QUESTIONS_PATH = './data/example.csv';
 const ANSWERS = {
     'a': 0,
     'b': 1,
